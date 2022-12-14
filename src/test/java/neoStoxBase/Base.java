@@ -24,6 +24,24 @@ public class Base
 		driver.manage().window().maximize();
 		driver.get("https://neostox.com/sign-in");
 		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
 		Reporter.log("Launching browser",true);
 		Utility.wait(driver, 1);
 		
